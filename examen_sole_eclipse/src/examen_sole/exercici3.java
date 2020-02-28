@@ -10,9 +10,6 @@ public class exercici3 {
 	public static void printOne() {
 		System.out.println("Hello World");
 	}
-	public static void printTwo() {
-		printOne();
-		printOne();
-	}
+	
 
 }
